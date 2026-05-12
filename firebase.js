@@ -17,4 +17,4 @@
           console.error('Firebase init error:', e);
         }
 
-        const appId = 'dgth-43076-A-NHON-HOI';
+        const appId = 'dgth-43076-B_ANPHU';
